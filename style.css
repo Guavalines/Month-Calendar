@@ -57,3 +57,12 @@ body {
   flex-wrap: flex;
   padding: 2px;
 }
+.days div{
+  font-size: 14px;
+  margin: 3px;
+  width: 57.5px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
