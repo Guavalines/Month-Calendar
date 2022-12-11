@@ -72,3 +72,7 @@
   border: 2px solid gray;
   cursor: pointer;
 }
+
+.today{
+  background-color: lightseagreen;
+}
