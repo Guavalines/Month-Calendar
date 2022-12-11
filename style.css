@@ -51,3 +51,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+.days{
+  width: 100%;
+  display: flex;
+  flex-wrap: flex;
+  padding: 2px;
+}
