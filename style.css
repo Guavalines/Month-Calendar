@@ -1,4 +1,4 @@
-* {
+*{
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -43,7 +43,7 @@
   height: 50px;
   display: flex;
 }
-.weekdays div{
+.weekdays div {
   font-size: 15px;
   font-weight: bold;
   letter-spacing: 1px;
@@ -52,13 +52,13 @@
   align-items: center;
   justify-content: center;
 }
-.days{
+.days {
   width: 100%;
   display: flex;
-  flex-wrap: flex;
+  flex-wrap: wrap;
   padding: 2px;
 }
-.days div{
+.days div {
   font-size: 14px;
   margin: 3px;
   width: 57.5px;
@@ -73,6 +73,6 @@
   cursor: pointer;
 }
 
-.today{
+.today {
   background-color: lightseagreen;
 }
