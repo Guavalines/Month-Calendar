@@ -2,9 +2,8 @@ const monthE1 = document.querySelector(".date h1");
 const fullDateE1 = document.querySelector(".date p");
 
 const monthInx = new Date().getMonth();
-
-console.log(monthInx);
-
+const lastDay = new Date(new Date().getFullYear(), monthInx, 0);
+console.log(lastDay);
 const months = [
   "January",
   "February",
