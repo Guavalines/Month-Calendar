@@ -27,6 +27,10 @@ fullDateE1.innerText = new Date().toDateString();
 
 let days = "";
 
+for (let i = firstDay; i > 0; i--){
+  days += `<div class="empty"></div>` ;
+}
+
 for (let i = 1; i <= lastDay; i++) {
   days += `<div>${i}</div>` ;
 }
