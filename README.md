@@ -1,1 +1,1 @@
-[Month Calendar](https://guavalines.github.io/Month-Calendar/)
+Check it out here: [Month Calendar](https://guavalines.github.io/Month-Calendar/)
