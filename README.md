@@ -1,7 +1,9 @@
-# MONTH CALENDAR
-Check it out here: [Month Calendar](https://guavalines.github.io/Month-Calendar/)
+# [MONTH CALENDAR](https://guavalines.github.io/Month-Calendar/) ☜ see here
 
-### Highlights
+# Description
+This program displays a calendar for the current month, year, and the days of the week.
+
+# Features
 
 This code generates a calendar for the current month and displays it on an HTML page.
 
