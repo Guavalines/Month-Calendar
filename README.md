@@ -1,17 +1,11 @@
 # [MONTH CALENDAR](https://guavalines.github.io/Month-Calendar/) ☜ see here
 
 # Description
-This program displays a calendar for the current month, year, and the days of the week.
+This program dynamically generates a calendar for the current month, year, and the days of the week. It then displays it on an HTML page, which updates automatically each month, based on the current date.
 
 # Features
 
-This code generates a calendar for the current month and displays it on an HTML page.
-
-The JavaScript code selects the HTML elements for the month, date, and days. It then calculates the current month's first and last days, creates a list of the month names, and uses a for loop to populate the days of the calendar in the correct order.
-
-The HTML code provides a basic layout for the calendar, including divs for the month, date, weekdays, and days. The JavaScript code populates the days div with the correct days for the current month.
-
-Overall, this code dynamically generates a calendar that updates automatically each month, based on the current date.
+- The JavaScript code selects the HTML elements for the month, date, and days. It then calculates the current month's first and last days, creates a list of the month names, and uses a for loop to populate the days of the calendar in the correct order.
 
 # Tools
 
