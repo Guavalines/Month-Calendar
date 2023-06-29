@@ -1,4 +1,4 @@
-# [MONTH CALENDAR](https://guavalines.github.io/Month-Calendar/) ☜ see it here
+# [📅 MONTH CALENDAR](https://guavalines.github.io/Month-Calendar/) ☜ see it here
 
 # Description
 This program dynamically generates a calendar for the current month, year, and the days of the week. It then displays it on an HTML page, which updates automatically each month, based on the current date.
